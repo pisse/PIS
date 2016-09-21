@@ -1,5 +1,5 @@
 # Welcome to PIS's tool garden.
-Here is my implement of some frontend wheel mentioned in ### [前端开发中有什么经典的轮子值得自己去实现一遍](https://www.zhihu.com/question/29380608)
+Here is my implement of some frontend wheel mentioned in [前端开发中有什么经典的轮子值得自己去实现一遍](https://www.zhihu.com/question/29380608)
 
 ------
 

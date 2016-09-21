@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+
+    <link rel="stylesheet" href="../node_modules/mocha/mocha.css">
+    <script src="../node_modules/mocha/mocha.js"></script>
+    <script src="../node_modules/chai/chai.js"></script>
+    <script src="../src/Class.js"></script>
+
+
+</head>
+<body>
+<script>mocha.setup('bdd')</script>
+<script>
+    window.onload = function(){
+        mocha.checkLeaks();
+        //mocha.globals(['foo']);
+        var runner = mocha.run();
+    }
+</script>
+<script src="./testClass.js"></script>
+
+<div id="mocha"></div>
+
+</body>
+</html>
