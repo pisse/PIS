@@ -1,0 +1,27 @@
+{
+  "name": "pis-class",
+  "version": "0.0.1",
+  "description": "class factory compatible with ES6",
+  "main": "index.js",
+  "scripts": {
+    "test": "gulp test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pisse/pis-class.git"
+  },
+  "keywords": [
+    "class",
+    "factory"
+  ],
+  "author": "pisse",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pisse/pis-class/issues"
+  },
+  "homepage": "https://github.com/pisse/pis-class#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.0.2"
+  }
+}
